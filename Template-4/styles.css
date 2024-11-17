@@ -1,0 +1,42 @@
+.hospital-header {
+    text-align: center;
+    background-color: blue;
+    height: 50px;
+    width: 100;
+}
+
+.text-color {
+    color: black;
+}
+
+.hospital-body {
+    color: blue;
+}
+
+.about {
+    background-color: blue;
+    height: 30px;
+    width: 100px;
+}
+
+.input {
+    width: 800px;
+}
+
+.contactsubmit {
+    background-color: blue;
+    width: 800px;
+}
+
+.container {
+    width: 300px;
+    height: 200px;
+}
+
+.space {
+    margin-left: 200px;
+}
+
+.registerspace {
+    margin-left: 25px;
+}
